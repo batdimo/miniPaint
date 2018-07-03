@@ -1,0 +1,9 @@
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/bin/Debug/ThreadExampleForm.exe
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/bin/Debug/ThreadExampleForm.pdb
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/obj/x86/Debug/ThreadExampleForm.csprojResolveAssemblyReference.cache
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/obj/x86/Debug/ThreadExampleForm.MainForm.resources
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/obj/x86/Debug/ThreadExampleForm.Properties.Resources.resources
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/obj/x86/Debug/ThreadExampleForm.csproj.GenerateResource.Cache
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/obj/x86/Debug/ThreadExampleForm.csproj.CoreCompileInputs.cache
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/obj/x86/Debug/ThreadExampleForm.exe
+/home/dimitar/Desktop/Dimo/PROGRAMING/c#/programs/C#15.05.18 all/C#/App15/ThreadExampleForm/ThreadExampleForm/obj/x86/Debug/ThreadExampleForm.pdb
